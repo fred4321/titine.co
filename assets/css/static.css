@@ -1,0 +1,7 @@
+/* Ajustements du HTML rendu pour un hébergement sans moteur Strikingly. */
+.s-navbar-container [role=button]:focus-visible {outline:2px solid #2db3d0;outline-offset:3px}
+.static-cookie {background:#fff;color:#333;box-shadow:0 2px 8px #0003;transition:bottom .3s}
+#contact-status:empty {display:none}
+#contact-status {margin-top:18px;line-height:1.5}
+#contact-status a {text-decoration:underline}
+.s-email-form-field-input:focus-within label,.s-email-form-field-input.has-value label {visibility:hidden}
