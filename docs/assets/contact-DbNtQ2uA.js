@@ -1,0 +1,1 @@
+import"./site-BLPd_ISk.js";/* empty css               */window.TITINE_CONTACT={endpoint:`https://formspree.io/f/mppwzrek`,email:`contact@novelios.com`};
